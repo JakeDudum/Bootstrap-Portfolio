@@ -18,13 +18,6 @@ body {
     width: 960px;
 }
 
-.header-background {
-    width: 100%;
-    height: 75px;
-    background: #ffffff;
-    border-bottom: #cccccc 5px solid;
-}
-
 .data, .message {
     width: 100%;
 }
