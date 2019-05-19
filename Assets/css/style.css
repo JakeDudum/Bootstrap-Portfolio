@@ -10,7 +10,7 @@ body {
     color: #777777;
 }
 
-.container {
+.sticky {
     min-height: calc(100vh - 90px);
 }
 
@@ -38,6 +38,7 @@ h1 {
 #name {
     float: left;
     text-align: center;
+    margin: -8px;
     color: #ffffff;
     height: 70px;
     padding: 20px 35px 0px;
