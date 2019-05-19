@@ -31,25 +31,6 @@ body {
     width: 100%;
 }
 
-.dash {
-    color: #777777;
-    float: right;
-    margin-top: 12px;
-}
-
-.navigate {
-    float: right;
-    background-color: #ffffff;
-    color: #777777;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-}
-
-.navigate:hover {
-    background: #DDD1E8;
-}
-
 h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 32px;
