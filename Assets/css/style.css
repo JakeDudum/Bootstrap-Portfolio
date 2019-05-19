@@ -36,6 +36,9 @@ h1 {
 }
 
 #name {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 32px;
+    font-weight: bold;
     height: 70px;
     margin-top: -8px;
     margin-bottom: -8px;
