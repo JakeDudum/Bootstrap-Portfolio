@@ -22,6 +22,11 @@ nav {
 
 .row {
     width: 100%;
+    margin: 0px;
+}
+
+.noPadding {
+    padding: 0px;
 }
 
 .dash {
