@@ -14,10 +14,6 @@ nav {
     border-bottom: #cccccc 5px solid;
 }
 
-.sticky {
-    min-height: calc(100vh - 90px);
-}
-
 .content {
     width: 960px;
 }
@@ -130,7 +126,7 @@ section {
     background: #A9E8A7;
 }
 
-footer {
+.footer {
     height: 60px;
     padding-top: 30px;
     font-size: 10px;
