@@ -21,6 +21,10 @@ nav {
     text-align: center;
 }
 
+.row {
+    width: 100%;
+}
+
 .dash {
     color: #777777;
     float: right;
