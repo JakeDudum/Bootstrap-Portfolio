@@ -59,8 +59,9 @@ section {
 
 #selfie {
     float: left;
+    max-width: 100%;
+    height: auto;
     width: 235px;
-    height: 275px;
     margin-right: 35px;
 }
 
