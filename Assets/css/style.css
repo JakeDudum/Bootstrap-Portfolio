@@ -22,11 +22,6 @@ nav {
 
 .row {
     width: 100%;
-    margin: 0px;
-}
-
-.noPadding {
-    padding: 0px;
 }
 
 .dash {
@@ -53,10 +48,8 @@ h1 {
     font-size: 32px;
     font-weight: bold;
     height: 75px;
-    width: 100%;
-    margin-top: -8px;
-    margin-bottom: -8px;
     padding-top: 15px;
+    width: 100%;
     color: #ffffff;
     background: #4aaaa5;
 }
