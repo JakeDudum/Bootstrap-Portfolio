@@ -83,9 +83,14 @@ section {
     line-height: 2;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .imgLink {
-    height: 240px;
-    width: 280px;
+    max-width: 280px;
+    height: auto;
     position: relative;
     color: #ffffff;
     margin-bottom: 50px;
