@@ -20,10 +20,6 @@ nav {
     margin-top: 5px;
 }
 
-.row {
-    width: 100%;
-}
-
 .dash {
     color: #777777;
     margin-top: 22px;
@@ -31,6 +27,10 @@ nav {
 
 .content {
     width: 960px;
+}
+
+.content-max {
+    max-width: 960px;
 }
 
 .data, .message {
